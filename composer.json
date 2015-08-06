@@ -1,0 +1,16 @@
+{
+  "name": "TienTV/blockzopim",
+  "description": "PrestaShop module blockzopim",
+  "homepage": "https://github.com/tientv/blockzopim",
+  "license": "AFL - Academic Free License (AFL 3.0)",
+  "authors": [
+    {
+      "name": "TienTV",
+      "email": "tranvinhtienit@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.2"
+  },
+  "type": "prestashop-module"
+}
